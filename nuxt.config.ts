@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     '@nuxtjs/tailwindcss',
+    '@nuxthq/studio',
     'shadcn-nuxt',
     '@vueuse/nuxt',
     '@nuxt/content',
