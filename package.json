@@ -53,6 +53,8 @@
   "devDependencies": {
     "@antfu/eslint-config": "^2.21.1",
     "@iconify-json/lucide": "^1.1.195",
+    "@nuxthq/studio": "^2.0.3",
+    "@nuxtjs/google-fonts": "^3.2.0",
     "@vueuse/core": "^10.11.0",
     "@vueuse/nuxt": "^10.11.0",
     "eslint": "9.2.0",
